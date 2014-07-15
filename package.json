@@ -1,0 +1,29 @@
+{
+  "name": "construction",
+  "version": "0.0.0",
+  "description": "used to supply a quote for the construction of a house with multiple rooms.",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shrutijalewar/construction"
+  },
+  "author": "Shruti Sharma <shrutijalewar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shrutijalewar/construction/issues"
+  },
+  "homepage": "https://github.com/shrutijalewar/construction",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "sync-prompt": "^0.4.1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "jshint-stylish": "^0.4.0"
+  }
+}
